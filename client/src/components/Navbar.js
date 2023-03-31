@@ -4,6 +4,7 @@ export const Navbar = () => {
         <ul>
             <li>Home</li>
             <li>Listings</li>
+            <li>Agents</li>
         </ul>
         </>
     )
