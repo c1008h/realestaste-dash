@@ -5,6 +5,7 @@ export const Navbar = () => {
             <li>Home</li>
             <li>Listings</li>
             <li>Agents</li>
+            <li>Logout</li>
         </ul>
         </>
     )
